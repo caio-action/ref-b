@@ -8,8 +8,7 @@ function App() {
       <header className='header' >
         <a href={CV} download className='btn'>Baixar a Bibliografia</a>
       </header>
-     
-        <article className='container'>
+     <article className='container'>
           <h1>Referência Bibliográfica:</h1>
           <p>-Relatório e entrevista com jornalista sírio,sobre tropas sunitas vindo para a Síria pela Jordânia e Turquia,aqui:
           </p><a href='http://www.boilingfrogspost.com/2011/12/11/bfp-exclusive-developing-story-hundreds-of-us-nato-soldiers-arrive-begin-operations-on-the-jordan-syria-border/' target={'_blank'}> <p>http://www.boilingfrogspost.com/2011/12/11/bfp-exclusive-developing-story-hundreds-of-us-nato-soldiers-arrive-begin-operations-on-the-jordan-syria-border/</p></a><p>e aqui: <a href='https://www.youtube.com/watch?v=-v1h1bUfCVca' target={'_blank'}> https://www.youtube.com/watch?v=-v1h1bUfCVca</a></p>
